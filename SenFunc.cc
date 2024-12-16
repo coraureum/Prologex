@@ -2,7 +2,6 @@
 #include <cmath>
 #define PI  3.1415928535
 double Rad (double ang){
-	double radang;
 	return ang * (PI/180);
 
 }
