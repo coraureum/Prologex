@@ -6,9 +6,9 @@ int main (int argc, char *argv[]){
 	while (Resp != 'N'){
 		std::cout << "O maior double eh: " << j << '\n';	
 	
-		std::cout << "Digite uma str: \n";
+		std::cout << "Digite uma str: ";
 		std::cin >> str;
-		std::cout << "Digite um double: \n";
+		std::cout << "Digite um double: ";
 		std::cin >> i;
 		
 		if (i > j){
