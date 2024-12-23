@@ -1,1 +1,0 @@
-Um programa para calcular tabelas cutter usando C++
