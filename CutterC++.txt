@@ -1,1 +1,0 @@
-Um programa para criar Tabelas Cutter em C++
