@@ -6,7 +6,7 @@ int main (){
 	for (int i = 0; i <=3; i++){
 		for (int j = 0; j <=3; j++){
 			std::cout << "Digite um valor na posiçao ["<< (i+1) <<", "<< (j+1) << "]\n";
-			Matrix[i][j] = std::rand() % 17;
+			std::cin >> Matrix[i][j];
 		}
 	}
 
